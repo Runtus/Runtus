@@ -5,7 +5,8 @@
 
 
 ### <center> 🛠Javascript/Typescript Developer🛠 </center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runtus)](https://github.com/BetaGoRobot/BetaGo-Nodejs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runtus&hide=html,css,vue,scss)](https://github.com/Runtus/pixiv-server-ts)
 
-### 正在开发的项目~~~
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=BetaGo-Nodejs)](https://github.com/BetaGoRobot/BetaGo-Nodejs)
+### <center> 🎁My Projects🎁 </center>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=pixiv-server-ts)](https://github.com/Runtus/pixiv-server-ts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=dormitory-uestc)](https://github.com/Runtus/dormitory-uestc)
