@@ -1,16 +1,23 @@
-## <center> 小亮，给他整个活！</center>
-### <center> 草，走，忽略🤸‍♂️！ </center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runtus&show_icons=true&theme=tokyonight)
 
 
-### <center> 🛠Javascript/Typescript Developer🛠 </center>
+<div style="display: flex;  align-items: center; justify-content: space-around;">
+    <div>    
+        <h3>Hi there 👋</h3>
+        <h4> I am Runtus 😊 </h4>
+    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Runtus&show_icons=true&theme=tokyonight" width="60%" />
+</div>
+
+
+
+
+
+### I am a 🛠Front-end/Javascript Developer🛠 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runtus&hide=css,vue,scss,Ruby)](https://github.com/Runtus/pixiv-server-ts)
 
-### <center> 🎁My Projects🎁 </center>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=pixiv-server-ts)](https://github.com/Runtus/pixiv-server-ts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=dormitory-uestc)](https://github.com/Runtus/dormitory-uestc)
 
+### My Coding Life
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2012%20mins-blue)
 
@@ -88,3 +95,7 @@ Cuda                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 07/10/2023 08:49:01 UTC
 <!--END_SECTION:waka-->
+
+### 🎁My Projects🎁
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=pixiv-server-ts)](https://github.com/Runtus/pixiv-server-ts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=dormitory-uestc)](https://github.com/Runtus/dormitory-uestc)
