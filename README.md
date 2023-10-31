@@ -19,19 +19,19 @@
 
 ### My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 149.0 kB Used in GitHub's Storage 
  > 
-> 🏆 167 Contributions in the Year 2023
+> 🏆 170 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
@@ -41,21 +41,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               4 hrs 57 mins       ████████████████░░░░░░░░░   65.71 % 
-TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-HTML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-C                        26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JavaScript               5 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.69 % 
+TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+HTML                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+C                        55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/10/2023 18:37:47 UTC
+ Last Updated on 31/10/2023 18:37:38 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
