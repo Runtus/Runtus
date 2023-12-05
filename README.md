@@ -19,19 +19,19 @@
 
 ### My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 149.1 kB Used in GitHub's Storage 
+> 📦 149.2 kB Used in GitHub's Storage 
  > 
-> 🏆 190 Contributions in the Year 2023
+> 🏆 193 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
@@ -41,21 +41,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 hrs 9 mins        █████████████████░░░░░░░░   68.48 % 
-C                        52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+C++                      3 hrs 59 mins       ██████████████████░░░░░░░   71.69 % 
+C                        34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/12/2023 18:38:28 UTC
+ Last Updated on 05/12/2023 18:37:46 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
