@@ -19,7 +19,7 @@
 
 ### My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -55,7 +55,7 @@ Mac                      8 hrs 20 mins       ███████████�
 ```
 
 
- Last Updated on 13/12/2023 18:37:25 UTC
+ Last Updated on 14/12/2023 18:38:29 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
