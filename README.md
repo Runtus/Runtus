@@ -41,17 +41,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/01/2024 18:39:43 UTC
+ Last Updated on 26/01/2024 18:37:01 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
