@@ -19,7 +19,7 @@
 
 ### My Coding Life
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,17 +41,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               14 mins             ██████████████████░░░░░░░   73.53 % 
+Python                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/02/2024 18:36:48 UTC
+ Last Updated on 13/02/2024 18:37:52 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
