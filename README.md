@@ -19,7 +19,9 @@
 
 ### My Coding Life
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,8 +33,28 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 11/04/2024 18:36:46 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
+Python                   1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+SCSS                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+TSConfig                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      4 hrs 37 mins       ████████████████████░░░░░   78.36 % 
+Windows                  1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+```
+
+
+ Last Updated on 12/04/2024 18:36:49 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
