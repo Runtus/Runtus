@@ -19,17 +19,19 @@
 
 ### My Coding Life
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 151.5 kB Used in GitHub's Storage 
+> 📦 151.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -52,7 +54,7 @@ Windows                  1 hr 16 mins        ████░░░░░░░�
 ```
 
 
- Last Updated on 14/04/2024 22:57:46 UTC
+ Last Updated on 15/04/2024 18:37:49 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
