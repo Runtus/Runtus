@@ -21,13 +21,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 154.1 kB Used in GitHub's Storage 
- > 
-> 🏆 91 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,20 +39,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               8 mins              ████████████████████████░   94.01 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+JavaScript               8 mins              ████████████████████████░   94.21 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
 VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 mins              ████████████████████████░   94.22 % 
-Windows                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Mac                      8 mins              ████████████████████████░   94.21 % 
+Windows                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
 
- Last Updated on 10/05/2024 18:38:00 UTC
+ Last Updated on 11/05/2024 18:36:51 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
