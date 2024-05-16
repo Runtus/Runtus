@@ -27,13 +27,11 @@
 
 > 📦 154.1 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-> 🔑 23 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -54,7 +52,7 @@ Mac                      5 mins              ███████████�
 ```
 
 
- Last Updated on 15/05/2024 18:38:02 UTC
+ Last Updated on 16/05/2024 18:37:54 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
