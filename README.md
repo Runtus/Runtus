@@ -50,7 +50,7 @@ Mac                      4 mins              ███████████�
 ```
 
 
- Last Updated on 30/05/2024 18:40:06 UTC
+ Last Updated on 31/05/2024 18:38:30 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
