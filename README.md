@@ -27,6 +27,8 @@
 
 > 📦 154.6 kB Used in GitHub's Storage 
  > 
+> 🏆 116 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -49,7 +51,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/06/2024 18:37:57 UTC
+ Last Updated on 23/06/2024 18:37:39 UTC
 <!--END_SECTION:waka-->
 
 ### 🎁My Projects🎁
