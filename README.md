@@ -1,28 +1,28 @@
 
 
-<div style="display: flex;  align-items: center; justify-content: space-around;">
+<div align="center">
     <div>    
-        <h3>Hi there 👋</h3>
-        <h4> I am Runtus 😊 </h4>
+        <h2>Welcome! 😊</h2>
+        <h4> I'm Runtus, a Front-end/Javascript Developer</h4>
     </div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Runtus&show_icons=true&theme=tokyonight" width="60%" />
+    <img style="width=100%" src="https://github.com/user-attachments/assets/96bbb592-d82f-4a25-bfe7-39362c279943"> </img>
 </div>
 
 
-![doro](https://github.com/user-attachments/assets/96bbb592-d82f-4a25-bfe7-39362c279943)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Runtus&show_icons=true&theme=tokyonight" width=400 />
 
+</div>
 
-
-### I am a 🛠Front-end/Javascript Developer🛠 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runtus&hide=css,vue,scss,Ruby)](https://github.com/Runtus/pixiv-server-ts)
-
-
-### My Coding Life
+<div align="center">
+<h3>My Coding Life</h3>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2029%20mins-blue)
+<img src="http://img.shields.io/badge/Code%20Time-332%20hrs%2029%20mins-blue" align="center" />
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+<img src="http://img.shields.io/badge/Profile%20Views-6-blue" align="center" />
+
+<br />
+
 
 **🐱 My GitHub Data** 
 
@@ -60,7 +60,4 @@ Windows                  37 mins             █░░░░░░░░░░�
 
  Last Updated on 19/11/2024 18:46:21 UTC
 <!--END_SECTION:waka-->
-
-### 🎁My Projects🎁
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=pixiv-server-ts)](https://github.com/Runtus/pixiv-server-ts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Runtus&repo=dormitory-uestc)](https://github.com/Runtus/dormitory-uestc)
+</div>
