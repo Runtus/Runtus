@@ -17,19 +17,19 @@
 <div align="center">
 <h3>My Coding Life</h3>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 219.8 kB Used in GitHub's Storage 
+> 📦 219.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
-> 🔑 24 Private Repositories 
+> 🔑 25 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -37,22 +37,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 30 mins             ████████░░░░░░░░░░░░░░░░░   32.26 % 
-TypeScript               28 mins             ████████░░░░░░░░░░░░░░░░░   30.28 % 
-JavaScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Python                   1 hr 57 mins        ████████████████████████░   94.29 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      56 mins             ███████████████░░░░░░░░░░   60.41 % 
-Linux                    36 mins             ██████████░░░░░░░░░░░░░░░   39.14 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/11/2024 18:47:01 UTC
+ Last Updated on 28/11/2024 18:46:02 UTC
 <!--END_SECTION:waka-->
 </div>
