@@ -4,11 +4,11 @@
     <div>    
         <h2>Welcome! 😊</h2>
         <h4> I'm Runtus, a Front-end/Javascript Developer</h4>
-        ![](https://img.shields.io/endpoint?url=https://awards.antv.vision/runtus-g2-contributor.json)](https://github.com/antvis/g2)
     </div>
     <img style="width=100%" src="https://github.com/user-attachments/assets/96bbb592-d82f-4a25-bfe7-39362c279943"> </img>
 </div>
 
+![](https://img.shields.io/endpoint?url=https://awards.antv.vision/runtus-g2-contributor.json)](https://github.com/antvis/g2)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Runtus&show_icons=true&theme=tokyonight" width=400 />
