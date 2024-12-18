@@ -4,6 +4,7 @@
     <div>    
         <h2>Welcome! 😊</h2>
         <h4> I'm Runtus, a Front-end/Javascript Developer</h4>
+        [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/runtus-g2-contributor.json)](https://github.com/antvis/g2)
     </div>
     <img style="width=100%" src="https://github.com/user-attachments/assets/96bbb592-d82f-4a25-bfe7-39362c279943"> </img>
 </div>
@@ -11,12 +12,13 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Runtus&show_icons=true&theme=tokyonight" width=400 />
-
 </div>
 
 <div align="center">
 <h3>My Coding Life</h3>
+
 <!--START_SECTION:waka-->
+    
 ![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
