@@ -20,13 +20,15 @@
 <h3>My Coding Life</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 389.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +42,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     9 mins              █████████████░░░░░░░░░░░░   52.58 % 
+Python                   8 mins              ████████████░░░░░░░░░░░░░   47.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/01/2025 18:42:16 UTC
+ Last Updated on 05/01/2025 18:41:24 UTC
 <!--END_SECTION:waka-->
 </div>
