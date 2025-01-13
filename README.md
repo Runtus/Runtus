@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -50,11 +50,11 @@ JSON                     9 mins              █░░░░░░░░░░�
 VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 31 mins       █████████████████████░░░░   83.36 % 
-Windows                  54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Mac                      4 hrs 31 mins       █████████████████████░░░░   83.34 % 
+Windows                  54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 ```
 
 
- Last Updated on 12/01/2025 18:41:42 UTC
+ Last Updated on 13/01/2025 18:45:57 UTC
 <!--END_SECTION:waka-->
 </div>
