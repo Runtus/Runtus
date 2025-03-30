@@ -20,15 +20,13 @@
 <h3>My Coding Life</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
- > 
-> 🏆 15 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,6 +54,6 @@ Mac                      15 mins             ████░░░░░░░�
 ```
 
 
- Last Updated on 30/03/2025 01:39:12 UTC
+ Last Updated on 30/03/2025 18:43:32 UTC
 <!--END_SECTION:waka-->
 </div>
