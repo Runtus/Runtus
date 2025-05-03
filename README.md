@@ -20,6 +20,8 @@
 <h3>My Coding Life</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -32,7 +34,22 @@
  > 
 > 🔑 25 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 02/05/2025 18:47:30 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 03/05/2025 18:45:25 UTC
 <!--END_SECTION:waka-->
 </div>
