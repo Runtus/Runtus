@@ -20,7 +20,7 @@
 <h3>My Coding Life</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,16 +40,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               16 mins             █████████████████████████   100.00 % 
+JavaScript               54 mins             █████████████████████████   98.17 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2025 18:47:54 UTC
+ Last Updated on 07/05/2025 18:48:38 UTC
 <!--END_SECTION:waka-->
 </div>
