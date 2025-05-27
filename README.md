@@ -28,6 +28,8 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -40,17 +42,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               20 mins             ███████████████████░░░░░░   74.97 % 
-Python                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/05/2025 18:47:33 UTC
+ Last Updated on 27/05/2025 18:50:03 UTC
 <!--END_SECTION:waka-->
 </div>
