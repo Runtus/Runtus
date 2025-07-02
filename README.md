@@ -20,13 +20,13 @@
 <h3>My Coding Life</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 27 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,7 +34,27 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/07/2025 18:50:08 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JavaScript               46 mins             ████████████████████░░░░░   80.12 % 
+YAML                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  57 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  49 mins             █████████████████████░░░░   84.68 % 
+Mac                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+```
+
+
+ Last Updated on 02/07/2025 18:51:07 UTC
 <!--END_SECTION:waka-->
 </div>
